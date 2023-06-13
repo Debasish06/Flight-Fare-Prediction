@@ -1,1 +1,2 @@
-extract rf.rar file.
+**extract rf.rar file which is on the app folder.
+**
